@@ -3,9 +3,9 @@
  - yarn (https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 
  To run this:
- - cd xxx/automation
- - yarn
- - node index.js
+ - cd xxx/automation (wherever you cloned this project to)
+ - yarn (installs dependencies)
+ - node index.js (starts the script)
 */
 
 const puppeteer = require('puppeteer');
